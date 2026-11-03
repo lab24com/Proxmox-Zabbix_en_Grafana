@@ -130,6 +130,4 @@ Los textos de los tres idiomas están en `src/i18n.json`. Las pruebas se ejecuta
 
 ## Desarrollo y aportes
 
-**Autor:** Willian Tola
-LAKA Soluciones Tecnológicas
-**Contacto:** +591 70806592
+**Autor:** Willian Tola - LAKA Soluciones Tecnológicas - **Contacto:** +591 70806592
