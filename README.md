@@ -4,12 +4,6 @@
 
 Dashboards para visualizar hipervisores y máquinas virtuales de Proxmox VE monitoreados con la plantilla oficial de Zabbix **Proxmox VE by HTTP**. Incluye una vista de hipervisores y una vista de máquinas virtuales enlazadas entre sí, con una interfaz oscura pensada para el trabajo del NOC.
 
-Este repositorio contiene dashboards JSON; los plugins se instalan por separado desde el catálogo de Grafana.
-
-![Hipervisores](docs/captura-hipervisores.png)
-
-![Máquinas virtuales](docs/captura-maquinas-virtuales.png)
-
 ## Funcionalidades
 
 **Hipervisores**
